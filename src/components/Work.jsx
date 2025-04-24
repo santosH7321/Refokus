@@ -12,10 +12,6 @@ const Work = () => {
     ]
 
 
-
-
-
-
   return (
     <div className='w-full '>
         <div className='relative max-w-screen-xl mx-auto text-center'>
